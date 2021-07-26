@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Balmeek143/Delicious/static/css/main.bd515638.chunk.css",
+    "main.js": "/Balmeek143/Delicious/static/js/main.c0a24268.chunk.js",
+    "main.js.map": "/Balmeek143/Delicious/static/js/main.c0a24268.chunk.js.map",
+    "runtime-main.js": "/Balmeek143/Delicious/static/js/runtime-main.6289d112.js",
+    "runtime-main.js.map": "/Balmeek143/Delicious/static/js/runtime-main.6289d112.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/Balmeek143/Delicious/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.311b303d.chunk.js": "/Balmeek143/Delicious/static/js/2.311b303d.chunk.js",
+    "static/js/2.311b303d.chunk.js.map": "/Balmeek143/Delicious/static/js/2.311b303d.chunk.js.map",
+    "static/js/3.35f55be2.chunk.js": "/Balmeek143/Delicious/static/js/3.35f55be2.chunk.js",
+    "static/js/3.35f55be2.chunk.js.map": "/Balmeek143/Delicious/static/js/3.35f55be2.chunk.js.map",
+    "index.html": "/Balmeek143/Delicious/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/Balmeek143/Delicious/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.bd515638.chunk.css.map": "/Balmeek143/Delicious/static/css/main.bd515638.chunk.css.map",
+    "static/js/2.311b303d.chunk.js.LICENSE.txt": "/Balmeek143/Delicious/static/js/2.311b303d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Balmeek143/Delicious/static/media/indianfood.f18ea4cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6289d112.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.311b303d.chunk.js",
+    "static/css/main.bd515638.chunk.css",
+    "static/js/main.c0a24268.chunk.js"
+  ]
+}
